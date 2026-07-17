@@ -1,4 +1,4 @@
-name: 更新白嫖IP库
+name: 更新反代IP库
 on:
   workflow_dispatch:
   schedule:    
